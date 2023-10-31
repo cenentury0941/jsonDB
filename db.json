@@ -1,3 +1,6 @@
 {
-  "test" : "Test Data"
+  "test" : {
+    "A" : "Value 1",
+    "B" : "Value 2"
+  }
 }
