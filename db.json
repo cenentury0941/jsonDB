@@ -2,6 +2,10 @@
   "ITEM01" : {
     "name" : "Crack Cocaine",
     "category" : "Drugs",
+    "amount" : {
+      "amount" : 1,
+      "amountUnit" : "Kg"
+    },
     "price" : 99999.99,
     "imageUrl" : ""
   },
